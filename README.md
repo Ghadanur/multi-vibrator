@@ -16,3 +16,4 @@ You can use any Verilog simulator such as:
 
 - **ModelSim**
 - **Icarus Verilog (iverilog)**
+- **Xilinx Vivado (for behavioral simulation)**
